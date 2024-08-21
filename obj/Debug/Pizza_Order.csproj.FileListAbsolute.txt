@@ -1,0 +1,12 @@
+D:\C#\Pizza_Order\bin\Debug\Pizza_Order.exe.config
+D:\C#\Pizza_Order\bin\Debug\Pizza_Order.exe
+D:\C#\Pizza_Order\bin\Debug\Pizza_Order.pdb
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.csproj.AssemblyReference.cache
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.FrmLogin.resources
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.Properties.Resources.resources
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.csproj.GenerateResource.cache
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.csproj.CoreCompileInputs.cache
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.exe
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.pdb
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.FrmPizzaOrder.resources
+D:\C#\Pizza_Order\obj\Debug\Pizza_Order.FrmTimer1.resources
